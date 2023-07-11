@@ -1,0 +1,3 @@
+---
+redirect_to: https://raw.githubusercontent.com/Qwerty-133/spcache/main/bin/uninstall_spcache.ps1
+---
